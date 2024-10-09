@@ -1,0 +1,1008 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1703138591695,
+    "title": "书签栏",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1728465820551,
+        "title": "海外联盟营销工具",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1728474411289,
+            "title": "常用工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1703158741426,
+                "title": "检查链接跳转",
+                "icon": "https://logo.clearbit.com/wheregoes.com",
+                "url": "https://wheregoes.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1720690906830,
+                "title": "DeepL",
+                "icon": "https://logo.clearbit.com/www.deepl.com",
+                "url": "https://www.deepl.com/zh/translator#en/zh/LightInTheBox%20Official%20Site%0ALightInTheBox-Worldwide%20Shipping%20%5C%7C%20Trendy%20Clothing%20%26%20Fashion%0AShop%20Our%20Collection%20Today%20%E2%80%94%20LightInTheBox%20Offers%20Various%20Types%20Of%20Lifestyle%20Products%20At%20Attractive%20Prices.%20Shop%20Now!%20We%20Offer%20Customers%20a%20Convenient%20Way%20To%20Shop%20For%20a%20Wide%20Selection%20Of%20Lifestyle%20Products.%0AFast%20Shipping%20Globally%20Nyse%20Online%20Marketplace%20With%20Lowest%20Price.%20Fast%20Shipping%20Worldwide.%20Easy%20Returns.%20Up%20To%2080%25%20Off.%20Clearance%20Is%20On.%20Brands%3A%20Lightinthebox%2C%20Shop%20In%2026%20Languages%2C%20Local%20Payment%20Methods."
+              },
+              {
+                "type": "link",
+                "addDate": 1717767083594,
+                "title": "用户中心 - 首页",
+                "icon": "https://logo.clearbit.com/dash.seogroup.club",
+                "url": "https://dash.seogroup.club/zh/#/page/m/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1726116181021,
+                "title": "智谱清言",
+                "icon": "https://logo.clearbit.com/chatglm.cn",
+                "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1723134076981,
+                "title": "文本加引号 ",
+                "icon": "https://logo.clearbit.com/www.huatools.com",
+                "url": "https://www.huatools.com/sql-quote/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728465889262,
+            "title": "广告联盟",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718099439375,
+                "title": "海淘_PartnerBoost",
+                "icon": "https://logo.clearbit.com/app.partnerboost.com",
+                "url": "https://app.partnerboost.com/partner/accounts/channels"
+              },
+              {
+                "type": "link",
+                "addDate": 1718099123886,
+                "title": "海淘_Linkhaitao",
+                "icon": "https://logo.clearbit.com/www.linkhaitao.com",
+                "url": "https://www.linkhaitao.com/settings/channels"
+              },
+              {
+                "type": "link",
+                "addDate": 1718673719038,
+                "title": "Affiliates.One",
+                "icon": "https://logo.clearbit.com/network.affiliates.one",
+                "url": "https://network.affiliates.one/affiliates"
+              },
+              {
+                "type": "link",
+                "addDate": 1723801003650,
+                "title": "BonusArrive",
+                "icon": "https://logo.clearbit.com/www.bonusarrive.com",
+                "url": "https://www.bonusarrive.com/b/dashboard/publisher"
+              },
+              {
+                "type": "link",
+                "addDate": 1693834308995,
+                "title": "多麦联盟",
+                "icon": "https://logo.clearbit.com/home.duomai.com",
+                "url": "https://home.duomai.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1704436099689,
+                "title": "多麦_Best",
+                "icon": "https://logo.clearbit.com/publisher.linkbest.com",
+                "url": "https://publisher.linkbest.com/admin/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1718098873514,
+                "title": "多麦_kreatornow",
+                "icon": "https://logo.clearbit.com/influencer.kreatornow.com",
+                "url": "https://influencer.kreatornow.com/admin-kol/program"
+              },
+              {
+                "type": "link",
+                "addDate": 1718100256702,
+                "title": "海淘_Linkbux",
+                "icon": "https://logo.clearbit.com/www.linkbux.com",
+                "url": "https://www.linkbux.com/publisher/channels"
+              },
+              {
+                "type": "link",
+                "addDate": 1718671511148,
+                "title": "中岸广告联盟",
+                "icon": "https://logo.clearbit.com/www.chinesean.com",
+                "url": "https://www.chinesean.com/dashBoard?locale=zh_CN"
+              },
+              {
+                "type": "link",
+                "addDate": 1714192541344,
+                "title": "Monetizer",
+                "icon": "https://logo.clearbit.com/app.monetizer.com",
+                "url": "https://app.monetizer.com/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1697104166207,
+                "title": "CD",
+                "icon": "https://logo.clearbit.com/www.clickdealer.com",
+                "url": "https://www.clickdealer.com/signup/?s1=187353%20|"
+              },
+              {
+                "type": "link",
+                "addDate": 1693833880515,
+                "title": "Affiliate ——联盟合集",
+                "icon": "https://logo.clearbit.com/www.affpaying.com",
+                "url": "https://www.affpaying.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728465905504,
+            "title": "流量平台",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1714193303759,
+                "title": "PopAds",
+                "icon": "https://logo.clearbit.com/www.popads.net",
+                "url": "https://www.popads.net/users/register/756049?sid=78cb38158f76d08d1ea6e0256fe984f4f0f97a33"
+              },
+              {
+                "type": "link",
+                "addDate": 1709779220153,
+                "title": "CPX24",
+                "icon": "https://logo.clearbit.com/cpx24.net",
+                "url": "https://cpx24.net/dashboard/campaigns"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728465917496,
+            "title": "追踪系统",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1693834513634,
+                "title": "BeMob",
+                "icon": "https://logo.clearbit.com/panel.bemob.com",
+                "url": "https://panel.bemob.com/login?redirect=%2Fapp%2Fdashboard%2FN4IgJghgLgpiBcIoHtIE8QBoQDMBOyAtgiAEwAMpAzALTkCcdALAATnnzuflZLIkVqdRuVbV4AVnqT6vKAEtCMAF7IAdnEQBVACoBhXgGco0AK6GSEAMYKAbnGxXTePDDVWM2gMoARXsjwwGDwAIU8QVwAHAKhDGkiCHHkof0Dgn3k8EiDDKxAAXyA"
+              },
+              {
+                "type": "link",
+                "addDate": 1722860612268,
+                "title": "PopAds",
+                "icon": "https://logo.clearbit.com/www.popads.net",
+                "url": "https://www.popads.net/campaigns/view/8513512"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728465933931,
+            "title": "云端服务",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1693834414803,
+                "title": "NameSilo",
+                "icon": "https://logo.clearbit.com/www.namesilo.com",
+                "url": "https://www.namesilo.com/support/v2/articles/policies/terms-and-conditions"
+              },
+              {
+                "type": "link",
+                "addDate": 1713944743984,
+                "title": "AI建站主机-hostinger",
+                "icon": "https://logo.clearbit.com/www.hostinger.com",
+                "url": "https://www.hostinger.com/web-hosting?irclickid=QAkz1J0xmxyKRD8SnswZE109UkHW:i3WYUXk0g0&irgwc=1&PID=1299619"
+              },
+              {
+                "type": "link",
+                "addDate": 1693834335810,
+                "title": "SiteGround",
+                "icon": "https://logo.clearbit.com/world.siteground.com",
+                "url": "https://world.siteground.com/?referrer_id=8982425"
+              },
+              {
+                "type": "link",
+                "addDate": 1693834375986,
+                "title": "Bitly——短链工具",
+                "icon": "https://logo.clearbit.com/bitly.com",
+                "url": "https://bitly.com/a/sign_in?rd=/bbt2/"
+              },
+              {
+                "type": "link",
+                "addDate": 1713944955574,
+                "title": "域名生成器-DomainWheel",
+                "icon": "https://logo.clearbit.com/domainwheel.com",
+                "url": "https://domainwheel.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1714878080937,
+                "title": "比较所有顶级域名的价格",
+                "icon": "https://logo.clearbit.com/zh-hans.tld-list.com",
+                "url": "https://zh-hans.tld-list.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728466012534,
+            "title": "支付收款",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728475789911,
+                "title": "Wise",
+                "icon": "https://logo.clearbit.com/wise.com",
+                "url": "https://wise.com/login?redirectUrl=%2Fhome%2F"
+              },
+              {
+                "type": "link",
+                "addDate": 1693833845466,
+                "title": "PayPal",
+                "icon": "https://logo.clearbit.com/www.paypal.com",
+                "url": "https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Fprofile&state=%2F"
+              },
+              {
+                "type": "link",
+                "addDate": 1712410321693,
+                "title": "Payoneer",
+                "icon": "https://logo.clearbit.com/www.payoneer.com",
+                "url": "https://www.payoneer.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1720596459923,
+                "title": "连连国际",
+                "icon": "https://logo.clearbit.com/cn.lianlianpay.com",
+                "url": "https://cn.lianlianpay.com/payment"
+              },
+              {
+                "type": "link",
+                "addDate": 1700059214645,
+                "title": "PhotonPay",
+                "icon": "https://logo.clearbit.com/vip.photonpay.com",
+                "url": "https://vip.photonpay.com/account/login?_t=1700058934401&prePath=%2Fsettings%2Fsetting"
+              },
+              {
+                "type": "link",
+                "addDate": 1712936129094,
+                "title": "Dukascopy",
+                "icon": "https://logo.clearbit.com/my.dukascopy.bank",
+                "url": "https://my.dukascopy.bank/#/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1705126221659,
+                "title": "N26",
+                "icon": "https://logo.clearbit.com/n26.com",
+                "url": "https://n26.com/de-de"
+              },
+              {
+                "type": "link",
+                "addDate": 1705231299582,
+                "title": "iFAST",
+                "icon": "https://logo.clearbit.com/www.ifastgb.com",
+                "url": "https://www.ifastgb.com/en/account-opening?component=application-submitted"
+              },
+              {
+                "type": "link",
+                "addDate": 1713842438808,
+                "title": "珊瑚跨境",
+                "icon": "https://logo.clearbit.com/login.coralglobal.cn",
+                "url": "https://login.coralglobal.cn/#/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1713957278244,
+                "title": "Epay",
+                "icon": "https://logo.clearbit.com/www.epay.com",
+                "url": "https://www.epay.com/epayweb/epay/remit"
+              },
+              {
+                "type": "link",
+                "addDate": 1709699169141,
+                "title": "Pokepay",
+                "icon": "https://logo.clearbit.com/www.pokepay.cc",
+                "url": "https://www.pokepay.cc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1712795935077,
+                "title": "Vvacard",
+                "icon": "https://logo.clearbit.com/www.vvacard.com",
+                "url": "https://www.vvacard.com/index/home/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1725624332596,
+                "title": "Management System",
+                "icon": "https://logo.clearbit.com/www.limaopay.com",
+                "url": "https://www.limaopay.com/register/#/queryCard"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728466028192,
+            "title": "代理上网",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1713444192618,
+                "title": "DuyaoSS-机场测速和简介",
+                "icon": "https://logo.clearbit.com/www.duyaoss.com",
+                "url": "https://www.duyaoss.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1693834195706,
+                "title": " EdNovas云机场",
+                "icon": "https://logo.clearbit.com/xn--ed-c72c.com",
+                "url": "https://xn--ed-c72c.com/#/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1693834217714,
+                "title": "泡泡Dog机场",
+                "icon": "https://logo.clearbit.com/www.paopao.dog",
+                "url": "https://www.paopao.dog/#/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1695483273941,
+                "title": "火麒麟",
+                "icon": "https://logo.clearbit.com/www.okyrin.com",
+                "url": "https://www.okyrin.com/#/dashboard"
+              },
+              {
+                "type": "link",
+                "addDate": 1695482746125,
+                "title": "性价比机场测速 - by Duang",
+                "icon": "https://logo.clearbit.com/duangks.com",
+                "url": "https://duangks.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1693833934442,
+                "title": "机场推荐与机场评测场评测",
+                "icon": "https://logo.clearbit.com/jichangtuijian.com",
+                "url": "https://jichangtuijian.com/ssr-v2ray%E4%B8%93%E7%BA%BF%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1695524127507,
+                "title": "Duang机场推荐大全 | 最良心的机场收录推荐",
+                "icon": "https://logo.clearbit.com/dh.duangks.com",
+                "url": "https://dh.duangks.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718772430006,
+                "title": "购买代理 / PROXY6.net",
+                "icon": "https://logo.clearbit.com/proxy6.net",
+                "url": "https://proxy6.net/en/order"
+              },
+              {
+                "type": "link",
+                "addDate": 1718801967622,
+                "title": "账号管理_全球住宅ip_全球HTTP代理-StormProxies【官网】",
+                "icon": "https://logo.clearbit.com/www.stormproxies.cn",
+                "url": "https://www.stormproxies.cn/user"
+              },
+              {
+                "type": "link",
+                "addDate": 1719199052260,
+                "title": "PROXY6.net",
+                "icon": "https://logo.clearbit.com/proxy6.net",
+                "url": "https://proxy6.net/en/user/proxy"
+              },
+              {
+                "type": "link",
+                "addDate": 1720756203632,
+                "title": "Proxy-Cheap",
+                "icon": "https://logo.clearbit.com/app.proxy-cheap.com",
+                "url": "https://app.proxy-cheap.com/vpn"
+              },
+              {
+                "type": "link",
+                "addDate": 1721633632508,
+                "title": "Proxy --- Dashboard",
+                "icon": "https://logo.clearbit.com/proxy2.webshare.io",
+                "url": "https://proxy2.webshare.io/dashboard?activityTimestampLte=%222024-08-21T07%3A25%3A40.803Z%22&activityTimestampGte=%222024-07-22T07%3A25%3A40.803Z%22"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728466079943,
+            "title": "社媒&邮箱工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1724915414547,
+                "title": "刷粉——JAP",
+                "icon": "https://logo.clearbit.com/justanotherpanel.com",
+                "url": "https://justanotherpanel.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1724915495187,
+                "title": "刷粉_Followiz",
+                "icon": "https://logo.clearbit.com/followiz.com",
+                "url": "https://followiz.com/?page=neworder"
+              },
+              {
+                "type": "link",
+                "addDate": 1713192511093,
+                "title": "邮箱城",
+                "icon": "https://logo.clearbit.com/www.yx1024.net",
+                "url": "https://www.yx1024.net/getPay.aspx?orderid=2024041522001483461411481786"
+              },
+              {
+                "type": "link",
+                "addDate": 1717654514391,
+                "title": "临时邮箱生成",
+                "icon": "https://logo.clearbit.com/yopmail.com",
+                "url": "https://yopmail.com/zh/email-generator"
+              },
+              {
+                "type": "link",
+                "addDate": 1726192786339,
+                "title": "出售和购买 Instagram ",
+                "icon": "https://logo.clearbit.com/accs-market.com",
+                "url": "https://accs-market.com/in?q=%2Fin&verification=on&subscribe_from=20000&subscribe_to=30000&filter=1&order_price=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1726491908791,
+                "title": "全新邮箱批发",
+                "icon": "https://logo.clearbit.com/www.yxcs888.co",
+                "url": "https://www.yxcs888.co/jingdian/index/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1727367321005,
+                "title": "INS接码邮箱",
+                "icon": "https://logo.clearbit.com/firstmail.ltd",
+                "url": "https://firstmail.ltd/en-US/webmail"
+              },
+              {
+                "type": "link",
+                "addDate": 1713190132657,
+                "title": "谷歌邮箱购买",
+                "icon": "https://logo.clearbit.com/www.henduohao.com",
+                "url": "https://www.henduohao.com/#%E5%BE%AE%E8%BD%AF%E9%82%AE%E7%AE%B1"
+              },
+              {
+                "type": "link",
+                "addDate": 1728475871803,
+                "title": "tiktok刷粉",
+                "icon": "https://logo.clearbit.com/tkfad.com",
+                "url": "https://tkfad.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728474355841,
+            "title": "KYC信息",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1726461786529,
+                "title": "美国加拿大真实地址",
+                "icon": "https://logo.clearbit.com/us.chatgpt.org.uk",
+                "url": "https://us.chatgpt.org.uk/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728475962430,
+                "title": "全世界真实地址",
+                "icon": "https://logo.clearbit.com/realaddress.fuyiran.com",
+                "url": "https://realaddress.fuyiran.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1682908023570,
+                "title": " 美国身份生成器",
+                "icon": "https://logo.clearbit.com/www.meiguodizhi.com",
+                "url": "https://www.meiguodizhi.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1704779042085,
+                "title": "真实地址信息",
+                "icon": "https://logo.clearbit.com/www.zillow.com",
+                "url": "https://www.zillow.com/homes/for_sale/?searchQueryState=%7B%22pagination%22%3A%7B%7D%2C%22isMapVisible%22%3Atrue%2C%22mapBounds%22%3A%7B%22west%22%3A-117.89935512150511%2C%22east%22%3A-117.76442927921995%2C%22south%22%3A33.717702402577295%2C%22north%22%3A33.80261739930294%7D%2C%22usersSearchTerm%22%3A%224458%20%20Angus%20Road%22%2C%22filterState%22%3A%7B%22sort%22%3A%7B%22value%22%3A%22globalrelevanceex%22%7D%2C%22ah%22%3A%7B%22value%22%3Atrue%7D%7D%2C%22isListVisible%22%3Atrue%2C%22mapZoom%22%3A13%7D"
+              },
+              {
+                "type": "link",
+                "addDate": 1693834090666,
+                "title": "美国人信息生成",
+                "icon": "https://logo.clearbit.com/www.dizhishengcheng.com",
+                "url": "https://www.dizhishengcheng.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1714920016958,
+                "title": "德国真实地址",
+                "icon": "https://logo.clearbit.com/www.immobilienscout24.de",
+                "url": "https://www.immobilienscout24.de/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728474679342,
+            "title": "谷歌代理",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718200579757,
+                "title": "成功易",
+                "icon": "https://logo.clearbit.com/www.siluzan.com",
+                "url": "https://www.siluzan.com/home.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1717305947699,
+                "title": "蓝标",
+                "icon": "https://logo.clearbit.com/akms.bluemediagroup.cn",
+                "url": "https://akms.bluemediagroup.cn/user/login?redirect=https%3A%2F%2Fakms.bluemediagroup.cn%2Fapplication-manage%2Fgoogle"
+              },
+              {
+                "type": "link",
+                "addDate": 1720000031078,
+                "title": "创翼广告",
+                "icon": "https://logo.clearbit.com/ad.aiadfly.com",
+                "url": "https://ad.aiadfly.com/account/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1720156637942,
+                "title": "亿帆出海",
+                "icon": "https://logo.clearbit.com/bf.show",
+                "url": "https://bf.show/login.php"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728474432358,
+            "title": "其他工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728031844371,
+                "title": "2FA工具",
+                "icon": "https://logo.clearbit.com/2fa.run",
+                "url": "https://2fa.run/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718803207909,
+                "title": "IP234-专业全球IP信息查询",
+                "icon": "https://logo.clearbit.com/ip123.in",
+                "url": "https://ip123.in/"
+              },
+              {
+                "type": "link",
+                "addDate": 1720156788437,
+                "title": "SMS_接码平台",
+                "icon": "https://logo.clearbit.com/sms-activate.io",
+                "url": "https://sms-activate.io/cn"
+              },
+              {
+                "type": "link",
+                "addDate": 1717651811053,
+                "title": "接码平台",
+                "icon": "https://logo.clearbit.com/5sim.net",
+                "url": "https://5sim.net/payment/pending?transaction_id=Y606517543219526&order_id=7557940"
+              },
+              {
+                "type": "link",
+                "addDate": 1717864733114,
+                "title": "Loge生成",
+                "icon": "https://logo.clearbit.com/ailogomaker.io",
+                "url": "https://ailogomaker.io/zh-CN/app"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728465983855,
+            "title": "着陆页",
+            "children": []
+          },
+          {
+            "type": "folder",
+            "addDate": 1728465970649,
+            "title": "Spy服务",
+            "children": []
+          },
+          {
+            "type": "folder",
+            "addDate": 1728474721083,
+            "title": "返利网",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1682863011406,
+                "title": "Rebatesme",
+                "icon": "https://logo.clearbit.com/www.rebatesme.com",
+                "url": "https://www.rebatesme.com/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1694789736382,
+                "title": "Rakuten.de",
+                "icon": "https://logo.clearbit.com/rakuten.de",
+                "url": "https://rakuten.de/kategorie"
+              },
+              {
+                "type": "link",
+                "addDate": 1703156676439,
+                "title": "elitebonus.de",
+                "icon": "https://logo.clearbit.com/www.elitebonus.de",
+                "url": "https://www.elitebonus.de/"
+              },
+              {
+                "type": "link",
+                "addDate": 1703156718261,
+                "title": "LetyShops",
+                "icon": "https://logo.clearbit.com/letyshops.com",
+                "url": "https://letyshops.com/de-en"
+              },
+              {
+                "type": "link",
+                "addDate": 1703156820523,
+                "title": "myWorld.de",
+                "icon": "https://logo.clearbit.com/www.myworld.com",
+                "url": "https://www.myworld.com/de"
+              },
+              {
+                "type": "link",
+                "addDate": 1703156940009,
+                "title": "ShopBuddies.de",
+                "icon": "https://logo.clearbit.com/www.shopbuddies.de",
+                "url": "https://www.shopbuddies.de/user/balance"
+              },
+              {
+                "type": "link",
+                "addDate": 1703157039809,
+                "title": "CashbackPlaza",
+                "icon": "https://logo.clearbit.com/cashbackplaza.com",
+                "url": "https://cashbackplaza.com/de-de/balance"
+              },
+              {
+                "type": "link",
+                "addDate": 1713065362268,
+                "title": "shopmate",
+                "icon": "https://logo.clearbit.com/www.shopmate.eu",
+                "url": "https://www.shopmate.eu/de/themenwelten/black-friday"
+              },
+              {
+                "type": "link",
+                "addDate": 1703399591250,
+                "title": "shopcash.ae",
+                "icon": "https://logo.clearbit.com/shopcash.ae",
+                "url": "https://shopcash.ae/store/amazon-ae-619f"
+              },
+              {
+                "type": "link",
+                "addDate": 1703156638180,
+                "title": "CashSparen.de",
+                "icon": "https://logo.clearbit.com/www.cashsparen.de",
+                "url": "https://www.cashsparen.de/"
+              },
+              {
+                "type": "link",
+                "addDate": 1703156785028,
+                "title": "link-o-mat",
+                "icon": "https://logo.clearbit.com/www.link-o-mat.com",
+                "url": "https://www.link-o-mat.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1682907972531,
+                "title": "Cash Back——反查返利网",
+                "icon": "https://logo.clearbit.com/www.cashbackholic.com",
+                "url": "https://www.cashbackholic.com/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1709697996326,
+        "title": "Web3与AI",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1713179789759,
+            "title": "AI工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1693814326462,
+                "title": "ChatGPT",
+                "icon": "https://logo.clearbit.com/chat.openai.com",
+                "url": "https://chat.openai.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1713360758434,
+                "title": "Devv AI",
+                "icon": "https://logo.clearbit.com/devv.ai",
+                "url": "https://devv.ai/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1712832554737,
+            "title": "ChatGPT 指令大全｜ExplainThis",
+            "icon": "https://logo.clearbit.com/www.explainthis.io",
+            "url": "https://www.explainthis.io/zh-hans/chatgpt"
+          },
+          {
+            "type": "folder",
+            "addDate": 1715048478122,
+            "title": "交易所",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715048507092,
+                "title": "币安",
+                "icon": "https://logo.clearbit.com/www.binance.com",
+                "url": "https://www.binance.com/zh-CN/my/settings/profile"
+              },
+              {
+                "type": "link",
+                "addDate": 1715050656711,
+                "title": "Bitget",
+                "icon": "https://logo.clearbit.com/www.bitget.com",
+                "url": "https://www.bitget.com/zh-CN/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1715051074964,
+                "title": "MEXC",
+                "icon": "https://logo.clearbit.com/www.mexc.com",
+                "url": "https://www.mexc.com/zh-CN/fee"
+              },
+              {
+                "type": "link",
+                "addDate": 1715330059668,
+                "title": "SunBit",
+                "icon": "https://logo.clearbit.com/www.sun6845.me",
+                "url": "https://www.sun6845.me/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1726908210582,
+            "title": "AI资讯日报",
+            "icon": "https://logo.clearbit.com/gorden-sun.notion.site",
+            "url": "https://gorden-sun.notion.site/527689cd2b294e60912f040095e803c5?v=4f6cc12006c94f47aee4dc909511aeb5"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1709698012849,
+        "title": "资源与奇特",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1709698269409,
+            "title": "资源",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1724942892124,
+                "title": "16.公众号导读 - 懒人找资源",
+                "icon": "https://logo.clearbit.com/lazybook.fun",
+                "url": "https://lazybook.fun/#/gzh/gzh_list"
+              },
+              {
+                "type": "link",
+                "addDate": 1713444669675,
+                "title": "ai导航",
+                "icon": "https://logo.clearbit.com/feizhuke.com",
+                "url": "https://feizhuke.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1697863296549,
+                "title": "科技lion导航 ",
+                "icon": "https://logo.clearbit.com/dh.kejilion.pro",
+                "url": "https://dh.kejilion.pro/"
+              },
+              {
+                "type": "link",
+                "addDate": 1709698639567,
+                "title": "推特A姐工具箱",
+                "icon": "https://logo.clearbit.com/www.ahhhhfs.com",
+                "url": "https://www.ahhhhfs.com/51272/"
+              },
+              {
+                "type": "link",
+                "addDate": 1693835197777,
+                "title": "小爱卖家——国外优质课程",
+                "icon": "https://logo.clearbit.com/imjmj.com",
+                "url": "https://imjmj.com/course/fanyi/"
+              },
+              {
+                "type": "link",
+                "addDate": 1693833956506,
+                "title": "爱跨境-跨境工具",
+                "icon": "https://logo.clearbit.com/www.ikj123.com",
+                "url": "https://www.ikj123.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1693835231147,
+                "title": "爱达杂货铺",
+                "icon": "https://logo.clearbit.com/adzhp.xyz",
+                "url": "https://adzhp.xyz/"
+              },
+              {
+                "type": "link",
+                "addDate": 1693835233978,
+                "title": "图欧学习资源导航 - 终身学习者的导航站",
+                "icon": "https://logo.clearbit.com/tuostudy.upnb.top",
+                "url": "https://tuostudy.upnb.top/#term-341"
+              },
+              {
+                "type": "link",
+                "addDate": 1722254146365,
+                "title": "网盘搜索",
+                "icon": "https://logo.clearbit.com/roubuyaoqian.com",
+                "url": "https://roubuyaoqian.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1697090190147,
+                "title": "终身学习—Notion的好站列表",
+                "icon": "https://logo.clearbit.com/www.notion.so",
+                "url": "https://www.notion.so/a722ba82bf184833bb33628c85b18dae"
+              },
+              {
+                "type": "link",
+                "addDate": 1713278148145,
+                "title": "集知盒子_很全面",
+                "icon": "https://logo.clearbit.com/www.jizhihezi.com",
+                "url": "https://www.jizhihezi.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1713279816548,
+                "title": "软件破解版",
+                "icon": "https://logo.clearbit.com/t.co",
+                "url": "https://t.co/oWDrHpGXTa"
+              },
+              {
+                "type": "link",
+                "addDate": 1713278822155,
+                "title": "硬核影视指南",
+                "icon": "https://logo.clearbit.com/yingheapp.com",
+                "url": "https://yingheapp.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1697445930823,
+                "title": "我常用的浏览器插件 · BMPI",
+                "icon": "https://logo.clearbit.com/www.bmpi.dev",
+                "url": "https://www.bmpi.dev/self/my-favorite-browser-plugin/"
+              },
+              {
+                "type": "link",
+                "addDate": 1697090693083,
+                "title": "终身学习——个人项目技术栈 ",
+                "icon": "https://logo.clearbit.com/www.bmpi.dev",
+                "url": "https://www.bmpi.dev/dev/tech-stack-of-side-project/#%E6%B5%8F%E8%A7%88%E5%99%A8"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1709698273835,
+            "title": "其余",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1703520211398,
+                "title": "移民思路 — 🇨🇦🧑🏻‍💻信息共享",
+                "icon": "https://logo.clearbit.com/inforun.info",
+                "url": "http://inforun.info/%E7%A7%BB%E6%B0%91%E6%80%9D%E8%B7%AF"
+              },
+              {
+                "type": "link",
+                "addDate": 1697163151909,
+                "title": "Notion 中文文档",
+                "icon": "https://logo.clearbit.com/www.notion.so",
+                "url": "https://www.notion.so/Notion-64ab96a7fccf4d74b9a9a68b338bc501"
+              },
+              {
+                "type": "link",
+                "addDate": 1697163176093,
+                "title": "Logseq 中文文档",
+                "icon": "https://logo.clearbit.com/hub.logseq.com",
+                "url": "https://hub.logseq.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1697163167901,
+                "title": "Obsidian 中文文档",
+                "icon": "https://logo.clearbit.com/publish.obsidian.md",
+                "url": "https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B"
+              },
+              {
+                "type": "link",
+                "addDate": 1697163170780,
+                "title": "GitHub中文文档",
+                "icon": "https://logo.clearbit.com/docs.github.com",
+                "url": "https://docs.github.com/en/get-started/quickstart/hello-world"
+              },
+              {
+                "type": "link",
+                "addDate": 1697445764911,
+                "title": "一人公司方法论",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/easychen/one-person-businesses-methodology"
+              },
+              {
+                "type": "link",
+                "addDate": 1711078120315,
+                "title": "币圈安全宝典",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md#gpg"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728476176869,
+            "title": "学习资料",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1709698725965,
+                "title": "学习代码网站",
+                "icon": "https://logo.clearbit.com/www.freecodecamp.org",
+                "url": "https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/"
+              },
+              {
+                "type": "link",
+                "addDate": 1713327348197,
+                "title": "HTML 和 CSS 很难 |友好的 Web 开发教程",
+                "icon": "https://logo.clearbit.com/internetingishard.netlify.app",
+                "url": "https://internetingishard.netlify.app/html-and-css/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1713279212327,
+                "title": "开发者路线图_非常有用",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/kamranahmedse/developer-roadmap?tab=readme-ov-file"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
